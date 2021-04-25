@@ -1,6 +1,7 @@
 {
   "entryPoints": [
-    "./src/"
+    "./src/notas.ts",
+    "./src/notasApp.ts"
   ],
   "out": "./docs"
 }
