@@ -1,3 +1,4 @@
+import * as fs from 'fs';
 import 'mocha';
 import {expect} from 'chai';
 import {Notas} from '../src/notas';
@@ -47,3 +48,5 @@ describe('Practica 8 Notas Test', () => {
 
 
 });
+
+fs.rmdirSync('./ficheros', {recursive: true});
