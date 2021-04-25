@@ -1,0 +1,1 @@
+{"processes":{"00806d60-eec8-4d64-9602-3652e0370ada":{"parent":"86bf34a0-1243-47eb-bf86-a44521dc8903","children":[]},"86bf34a0-1243-47eb-bf86-a44521dc8903":{"parent":null,"children":["00806d60-eec8-4d64-9602-3652e0370ada"]}},"files":{"/home/usuario/Practicas/p8/src/notas.ts":["00806d60-eec8-4d64-9602-3652e0370ada"]},"externalIds":{}}
